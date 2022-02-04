@@ -1,0 +1,13 @@
+{
+  "name": "PlayStation 2 Controller Analyzer",
+  "apiVersion": "1.0.0",
+  "author": "Sajid Anwar",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "PlayStation 2 Controller Analyzer": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
