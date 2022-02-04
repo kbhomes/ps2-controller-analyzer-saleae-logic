@@ -10,3 +10,4 @@
   - Add the "PlayStation 2 Controller Analyzer" and select the "SPI" analyzer as input
 - Begin capturing or load an existing capture
 
+![Screenshot](https://github.com/kbhomes/ps2-controller-analyzer-saleae-logic/raw/main/docs/logic2-ps2-controller-analyzer.png)
