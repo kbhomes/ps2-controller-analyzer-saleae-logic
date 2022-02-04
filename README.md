@@ -1,13 +1,12 @@
-
-  # PlayStation 2 Controller Analyzer
+# PlayStation 2 Controller Analyzer
   
 ## Getting started
 
-1. Build your extension by updating the Python files for your needs
-2. Create a public Github repo and push your code 
-3. Update this README
-4. Open the Logic app and publish your extension
-5. Create a Github release
-6. Debug your hardware like you've never done before :)
+- Download the code of this repository
+- In Logic 2, open the Extensions tab on the right
+  - In the menu, click "Load Existing Extension..." and select this project's "extension.json" file
+- Open the Analyzers tab on the right
+  - Add an "SPI" analyzer and select the correct pins and settings (LSB first, 8-bit, CPOL=1, CPHA=1)
+  - Add the "PlayStation 2 Controller Analyzer" and select the "SPI" analyzer as input
+- Begin capturing or load an existing capture
 
-  
